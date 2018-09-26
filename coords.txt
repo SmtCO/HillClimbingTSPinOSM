@@ -1,0 +1,72 @@
+Monumento a Vittorio Emanuele II, 12.482860, 41.895141
+SantIvo dei Bretoni, 12.474581, 41.902598
+San Gregorio dei Muratori, 12.475027, 41.903512
+Santa Maria in Trivio, 12.482601, 41.901168
+Sant Ambrogio della Massima, 12.477852, 41.893596
+Statua "parlante" di Pasquino, 12.472308, 41.897715
+Statua "parlante" di Pasquino, 12.472308, 41.897715
+Giordano Bruno, 12.472178, 41.895595
+Galleria Spada, 12.472201, 41.893887
+Museo di Roma, 12.472694, 41.897657
+Museo Nazionale Romano, 12.472838, 41.901198
+Monumento al Metastasio, 12.469178, 41.897863
+Palazzo Doria Pamphilj, 12.481561, 41.897824
+Statua equestre di Marco Aurelio, 12.482282, 41.892704
+None, 12.466342, 41.902449
+Obelisco della Minerva, 12.477560, 41.897966
+Castore, 12.482602, 41.893550
+Cola di Rienzo, 12.482324, 41.893706
+Minerva, 12.483555, 41.893013
+Nilo, 12.483385, 41.893193
+Polluce, 12.482506, 41.893443
+Statua di Minerva seduta, 12.483291, 41.893130
+Tevere, 12.483249, 41.893039
+Testa di Costantino, 12.482489, 41.892895
+Sacrario delle Bandiere delle Forze Armate, 12.483635, 41.894945
+Statua "parlante" Madama Lucrezia, 12.481312, 41.895677
+Museo Nazionale Romano - Crypta Balbi, 12.478443, 41.894830
+"Statua parlante" Abate Luigi, 12.474633, 41.895968
+None, 12.466557, 41.901330
+None, 12.466459, 41.902454
+Pie di marmo, 12.479377, 41.897613
+Colonna dell'Immacolata, 12.482968, 41.904974
+Colonna dell'Immacolata, 12.482968, 41.904974
+Galleria Colonna, 12.484880, 41.897475
+Chiostro del Bramante, 12.471556, 41.900165
+Rome Baptist Church, 12.478314, 41.903759
+Santa Maria dei Martiri, 12.476842, 41.898427
+Museo napoleonico di Roma, 12.471990, 41.901854
+None, 12.466539, 41.901538
+None, 12.466519, 41.901765
+None, 12.466499, 41.901998
+None, 12.466479, 41.902223
+Statua della Gatta, 12.480592, 41.896887
+Stadio di Domiziano, 12.472530, 41.900216
+Colonna di Traiano, 12.484266, 41.895838
+None, 12.473155, 41.898084
+None, 12.473119, 41.898113
+None, 12.472617, 41.897651
+None, 12.473152, 41.898110
+None, 12.473188, 41.898112
+None, 12.473153, 41.898138
+None, 12.473023, 41.899770
+None, 12.472984, 41.899796
+None, 12.473020, 41.899797
+Fontana del Nettuno, 12.473055, 41.899798
+None, 12.473021, 41.899824
+San Carlo, 12.477263, 41.905171
+Giacomo Guidi Arte Contemporanea, 12.467516, 41.898585
+Federico Seismit-Doda, 12.475453, 41.893835
+Museo di scultura antiac Giovanni Barracco, 12.472597, 41.896818
+La Lupa, 12.483652, 41.893267
+Aldo Moro, 12.478414, 41.893931
+Museo Nazionale del Palazzo di Venezia, 12.481534, 41.896366
+care d'artistes, 12.471264, 41.900446
+Museo Ebraico di Roma, 12.477986, 41.891959
+Mostra Leonardo da Vinci, 12.471431, 41.896557
+Palazzo Cipolla, 12.480903, 41.899549
+Fox Gallery, 12.478730, 41.896058
+Fondazione Museo della Shoah, 12.476698, 41.894802
+Museo Parigino, 12.481927, 41.902533
+Musei Capitolini, 12.482533, 41.892941
+None, 12.470330, 41.903096
